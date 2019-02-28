@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>KRASAV4K1</title>
+	<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+	<header>
+		<div id="header-block1">
+			<img src="assets/img/LOGO.png">
+			<!-- <h1>KRASAV4K1</h1> -->
+		</div>
+	</header>
+
+	<div class="content-box" id="content-box1">
+	
+		<div class="p">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur sint nihil, quasi totam dicta, nisi suscipit velit laboriosam aspernatur illo neque quos eligendi nulla voluptate. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, voluptatibus.
+			</p>
+			<a href="#">more...</a>
+		</div>		<!-- /#P -->	
+		
+	</div>	<!-- /.content-box -->	
+
+	<div class="content-box" id="content-box2">
+	
+		<div class="p">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur sint nihil, quasi totam dicta, nisi suscipit velit laboriosam aspernatur illo neque quos eligendi nulla voluptate. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, voluptatibus.
+			</p>
+			<a href="#">more...</a>
+		</div>	 <!-- /#P -->	
+		
+	</div>	<!-- /.content-box -->
+
+	<div class="content-box" id="content-box3">
+	
+		<div class="p">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur sint nihil, quasi totam dicta, nisi suscipit velit laboriosam aspernatur illo neque quos eligendi nulla voluptate. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, voluptatibus.
+			</p>
+			<a href="#">more...</a>
+		</div>		<!-- /#P -->	
+		
+	</div>	<!-- /.content-box -->	
+
+	<div class="content-box" id="content-box4">
+	
+		<div class="p">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur sint nihil, quasi totam dicta, nisi suscipit velit laboriosam aspernatur illo neque quos eligendi nulla voluptate. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, voluptatibus.
+			</p>
+			<a href="#">more...</a>
+		</div>	 <!-- /#P -->	
+		
+	</div>	<!-- /.content-box -->
+
+
+
+
+<div style="margin-top: 1000px"></div>
+</body>
+</html>
